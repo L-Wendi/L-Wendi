@@ -1,4 +1,5 @@
 ### Hi there, my name is Wendi 👋
+# Welcome to my GitHub page!
 
 <!--
 **L-Wendi/L-Wendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
